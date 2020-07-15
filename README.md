@@ -1,5 +1,8 @@
 # Coding Cheat Sheets
-Simple, quick cheat sheets on computer science concepts.
+Simple, quick cheat sheets on what I learn everyday.
+
+##Productivity and Visual Studio
+* [Visual Studio Shortcuts](/productivity/vs_shortcuts.md)
 
 ## Algorithms
 * [Divide and Conquer](/algorithms/divide_and_conquer.md)
